@@ -294,7 +294,7 @@ customerid,domestic,recency_score,frequency_score,monetary_score,cust_matrix
 560773,True,1,2,3,lost_cust
 540468,True,1,1,3,lost_cust
 550458,True,1,2,3,lost_cust
-571508,True,1,2,3,lost_cust
+571508,True,2,2,3,problem_cust
 558777,True,1,2,3,lost_cust
 14071,True,3,3,3,star_cust
 14583,True,3,3,2,star_cust
@@ -821,7 +821,7 @@ customerid,domestic,recency_score,frequency_score,monetary_score,cust_matrix
 15632,True,3,3,3,star_cust
 18245,True,3,3,3,star_cust
 13566,True,2,2,2,problem_cust
-13015,True,1,3,3,lost_cust
+13015,True,2,3,3,problem_cust
 15738,True,3,3,3,star_cust
 547788,True,1,2,3,lost_cust
 555150,True,1,2,3,lost_cust
@@ -1105,7 +1105,7 @@ customerid,domestic,recency_score,frequency_score,monetary_score,cust_matrix
 14387,True,2,3,3,problem_cust
 15987,True,3,3,2,star_cust
 18260,True,1,3,3,lost_cust
-17612,True,1,3,3,lost_cust
+17612,True,2,3,3,problem_cust
 18168,True,1,3,3,lost_cust
 18156,True,3,2,2,star_cust
 543546,True,1,1,3,lost_cust
@@ -1126,7 +1126,7 @@ customerid,domestic,recency_score,frequency_score,monetary_score,cust_matrix
 17434,True,3,3,3,star_cust
 18065,True,3,3,3,star_cust
 16156,True,3,3,3,star_cust
-14841,True,1,3,3,lost_cust
+14841,True,2,3,3,problem_cust
 547385,True,1,2,2,lost_cust
 548203,True,1,2,3,lost_cust
 552493,True,1,2,3,lost_cust
@@ -1322,7 +1322,7 @@ customerid,domestic,recency_score,frequency_score,monetary_score,cust_matrix
 14224,True,1,3,2,lost_cust
 16324,True,1,3,2,lost_cust
 13725,True,2,3,3,problem_cust
-14211,True,1,3,3,lost_cust
+14211,True,2,3,3,problem_cust
 539708,True,1,1,2,lost_cust
 16143,True,3,3,3,star_cust
 12423,False,3,3,3,star_cust
@@ -1537,7 +1537,7 @@ customerid,domestic,recency_score,frequency_score,monetary_score,cust_matrix
 16168,True,3,3,3,star_cust
 12635,False,1,2,3,lost_cust
 576365,True,2,2,3,problem_cust
-15505,True,1,3,3,lost_cust
+15505,True,2,3,3,problem_cust
 14664,True,3,2,2,star_cust
 17738,True,3,3,3,star_cust
 13601,True,2,2,2,problem_cust
@@ -1649,7 +1649,7 @@ customerid,domestic,recency_score,frequency_score,monetary_score,cust_matrix
 15952,True,2,3,2,problem_cust
 15889,True,1,2,1,lost_cust
 14748,True,2,3,3,problem_cust
-13265,True,1,3,3,lost_cust
+13265,True,2,3,3,problem_cust
 18092,True,3,3,3,star_cust
 13357,True,1,1,2,lost_cust
 17469,True,3,3,3,star_cust
@@ -1721,7 +1721,7 @@ customerid,domestic,recency_score,frequency_score,monetary_score,cust_matrix
 16503,True,1,3,3,lost_cust
 16504,True,2,1,2,lost_cust
 12619,False,3,3,3,star_cust
-13722,True,1,2,3,lost_cust
+13722,True,1,3,3,lost_cust
 13149,True,3,3,3,star_cust
 13475,True,1,3,3,lost_cust
 15485,True,2,3,3,problem_cust
@@ -1774,7 +1774,7 @@ customerid,domestic,recency_score,frequency_score,monetary_score,cust_matrix
 12928,True,2,3,3,problem_cust
 16053,True,2,2,3,problem_cust
 17519,True,3,3,3,star_cust
-12463,False,1,3,3,lost_cust
+12463,False,2,3,3,problem_cust
 574967,True,2,2,3,problem_cust
 16045,True,1,3,3,lost_cust
 16431,True,1,3,2,lost_cust
@@ -2044,7 +2044,7 @@ customerid,domestic,recency_score,frequency_score,monetary_score,cust_matrix
 13486,True,1,2,3,lost_cust
 16895,True,1,1,1,lost_cust
 16172,True,1,3,3,lost_cust
-16249,True,1,3,3,lost_cust
+16249,True,2,3,3,problem_cust
 14364,True,1,3,3,lost_cust
 12526,False,3,2,3,star_cust
 17669,True,2,3,3,problem_cust
@@ -2112,13 +2112,13 @@ customerid,domestic,recency_score,frequency_score,monetary_score,cust_matrix
 539740,True,1,1,2,lost_cust
 18221,True,3,3,2,star_cust
 15839,True,2,3,2,problem_cust
-17100,True,3,2,2,new_cust
+17100,True,3,1,2,new_cust
 15977,True,3,2,2,star_cust
 553541,True,1,2,2,lost_cust
 572704,True,2,2,3,problem_cust
 17931,True,1,2,2,lost_cust
 17976,True,1,1,1,lost_cust
-571554,True,1,2,3,lost_cust
+571554,True,2,2,3,problem_cust
 573274,True,2,2,3,problem_cust
 16040,True,1,3,3,lost_cust
 17047,True,1,3,2,lost_cust
@@ -2425,14 +2425,14 @@ customerid,domestic,recency_score,frequency_score,monetary_score,cust_matrix
 556433,True,1,2,3,lost_cust
 16364,True,3,2,2,star_cust
 15433,True,1,2,2,lost_cust
-16932,True,1,1,1,lost_cust
+16932,True,2,1,1,lost_cust
 16480,True,1,1,2,lost_cust
 13455,True,2,2,2,problem_cust
 12717,False,1,2,2,lost_cust
 14594,True,3,2,2,star_cust
 17007,True,2,3,2,problem_cust
-546656,True,1,1,2,lost_cust
-15066,True,1,1,2,lost_cust
+546656,True,1,2,2,lost_cust
+15066,True,2,1,2,lost_cust
 15712,True,3,3,2,star_cust
 17649,True,1,1,2,lost_cust
 12752,False,1,1,3,lost_cust
@@ -2507,7 +2507,7 @@ customerid,domestic,recency_score,frequency_score,monetary_score,cust_matrix
 15645,True,3,1,2,new_cust
 552675,True,1,2,2,lost_cust
 15602,True,3,3,2,star_cust
-571500,True,1,2,1,lost_cust
+571500,True,2,2,1,problem_cust
 15829,True,1,2,2,lost_cust
 13389,True,3,2,2,star_cust
 560293,True,1,2,2,lost_cust
@@ -2663,7 +2663,7 @@ customerid,domestic,recency_score,frequency_score,monetary_score,cust_matrix
 536864,True,1,1,2,lost_cust
 17692,True,1,3,2,lost_cust
 13431,True,1,2,3,lost_cust
-16020,True,3,3,2,star_cust
+16020,True,3,2,2,star_cust
 15507,True,1,1,2,lost_cust
 13131,True,3,2,2,star_cust
 16573,True,1,2,2,lost_cust
@@ -2699,7 +2699,7 @@ customerid,domestic,recency_score,frequency_score,monetary_score,cust_matrix
 17660,True,1,1,1,lost_cust
 550206,True,1,2,2,lost_cust
 12925,True,3,2,2,star_cust
-12794,False,1,2,2,lost_cust
+12794,False,2,2,2,problem_cust
 15437,True,1,1,1,lost_cust
 16747,True,2,2,2,problem_cust
 17357,True,2,2,2,problem_cust
@@ -2742,7 +2742,7 @@ customerid,domestic,recency_score,frequency_score,monetary_score,cust_matrix
 17006,True,3,3,2,star_cust
 552678,True,1,2,2,lost_cust
 13617,True,2,2,2,problem_cust
-16268,True,1,2,2,lost_cust
+16268,True,1,1,2,lost_cust
 16306,True,1,3,2,lost_cust
 14204,True,3,1,1,new_cust
 560291,True,1,2,2,lost_cust
@@ -2954,7 +2954,7 @@ customerid,domestic,recency_score,frequency_score,monetary_score,cust_matrix
 16978,True,1,1,2,lost_cust
 16099,True,2,3,2,problem_cust
 550213,True,1,2,2,lost_cust
-14830,True,1,1,1,lost_cust
+14830,True,2,1,1,lost_cust
 17503,True,3,2,2,star_cust
 17267,True,1,1,1,lost_cust
 18093,True,1,3,3,lost_cust
@@ -3047,7 +3047,7 @@ C557663,False,,,,
 12435,False,1,2,3,lost_cust
 17447,True,2,2,2,problem_cust
 15643,True,1,3,2,lost_cust
-13388,True,1,2,2,lost_cust
+13388,True,1,1,2,lost_cust
 15197,True,3,3,2,star_cust
 12624,False,1,2,2,lost_cust
 13819,True,1,3,3,lost_cust
@@ -3109,8 +3109,8 @@ C557663,False,,,,
 15081,True,3,3,2,star_cust
 547400,True,1,2,2,lost_cust
 16164,True,3,3,2,star_cust
-546655,True,1,1,1,lost_cust
-16389,True,1,3,3,lost_cust
+546655,True,1,2,1,lost_cust
+16389,True,2,3,3,problem_cust
 15332,False,1,3,3,lost_cust
 12475,False,1,1,2,lost_cust
 15492,True,2,2,2,problem_cust
@@ -3172,7 +3172,7 @@ C557663,False,,,,
 13812,False,2,3,2,problem_cust
 18009,True,1,1,1,lost_cust
 16070,True,3,2,2,star_cust
-546654,True,1,1,2,lost_cust
+546654,True,1,2,2,lost_cust
 17329,True,3,2,2,star_cust
 17523,True,3,3,2,new_cust
 16008,True,2,3,2,problem_cust
@@ -3249,7 +3249,7 @@ C557663,False,,,,
 558316,True,1,2,1,lost_cust
 12649,False,1,2,2,lost_cust
 14023,True,3,2,2,star_cust
-17244,True,1,1,2,lost_cust
+17244,True,2,1,2,lost_cust
 13784,True,3,3,3,star_cust
 539745,True,1,1,1,lost_cust
 18173,True,1,3,3,lost_cust
@@ -3316,7 +3316,7 @@ C557663,False,,,,
 17957,True,1,1,1,lost_cust
 12924,True,1,3,2,lost_cust
 16113,True,1,1,1,lost_cust
-17679,True,1,2,3,lost_cust
+17679,True,2,2,3,problem_cust
 17829,False,1,1,2,lost_cust
 16601,True,2,1,1,lost_cust
 17980,True,1,3,2,lost_cust
@@ -3340,7 +3340,7 @@ C557663,False,,,,
 14133,True,1,3,2,lost_cust
 15853,True,2,1,1,lost_cust
 14647,True,1,1,1,lost_cust
-12424,False,1,2,3,lost_cust
+12424,False,1,1,3,lost_cust
 15450,True,2,1,2,lost_cust
 14813,True,1,2,1,lost_cust
 14620,True,1,2,1,lost_cust
@@ -3514,7 +3514,7 @@ C547725,True,,,,
 12808,False,2,2,2,problem_cust
 14285,True,3,3,3,star_cust
 13524,True,2,3,2,problem_cust
-571652,False,1,2,2,lost_cust
+571652,False,2,2,2,problem_cust
 14304,True,1,1,1,lost_cust
 15165,True,1,1,2,lost_cust
 12410,False,1,2,2,lost_cust
@@ -3553,7 +3553,7 @@ C547725,True,,,,
 14400,True,1,1,2,lost_cust
 14403,True,1,3,3,lost_cust
 13352,True,1,1,1,lost_cust
-13594,True,1,1,2,lost_cust
+13594,True,2,1,2,lost_cust
 16773,True,1,1,1,lost_cust
 16884,True,2,2,2,problem_cust
 13311,True,3,2,2,star_cust
@@ -3895,7 +3895,7 @@ C571196,True,,,,
 12648,False,1,1,1,lost_cust
 12790,False,1,1,1,lost_cust
 15713,True,1,2,2,lost_cust
-14015,True,1,1,2,lost_cust
+14015,True,2,1,2,lost_cust
 570236,True,1,2,1,lost_cust
 13364,True,,,,
 18135,True,2,3,2,problem_cust
@@ -4208,7 +4208,7 @@ C537251,True,,,,
 13273,True,1,1,1,lost_cust
 12797,False,1,1,1,lost_cust
 14638,True,2,1,2,lost_cust
-15598,True,1,1,1,lost_cust
+15598,True,2,1,1,lost_cust
 14024,True,1,2,2,lost_cust
 16778,True,1,2,1,lost_cust
 15224,True,1,2,1,lost_cust
@@ -4219,7 +4219,7 @@ C537251,True,,,,
 541127,True,1,1,1,lost_cust
 17094,True,1,1,1,lost_cust
 13349,True,3,1,1,new_cust
-15637,True,1,1,1,lost_cust
+15637,True,2,1,1,lost_cust
 13529,True,1,2,1,lost_cust
 13153,True,3,1,1,new_cust
 537025,True,1,1,1,lost_cust
@@ -4294,7 +4294,7 @@ C537251,True,,,,
 14793,True,3,1,1,new_cust
 540556,False,1,1,2,lost_cust
 15143,True,1,1,1,lost_cust
-16848,True,1,1,1,lost_cust
+16848,True,2,1,1,lost_cust
 16583,True,1,1,1,lost_cust
 14109,True,1,1,1,lost_cust
 12504,False,3,2,1,star_cust
@@ -4413,7 +4413,7 @@ C537251,True,,,,
 14046,True,1,1,1,lost_cust
 18262,True,1,1,1,lost_cust
 14964,True,1,1,1,lost_cust
-17785,True,1,1,1,lost_cust
+17785,True,2,1,1,lost_cust
 580124,False,3,2,1,new_cust
 12373,False,1,1,2,lost_cust
 13169,True,1,2,2,lost_cust
@@ -4446,9 +4446,9 @@ C537251,True,,,,
 15263,True,1,1,1,lost_cust
 13754,True,1,2,1,lost_cust
 17262,True,2,3,3,problem_cust
-15678,True,1,1,2,lost_cust
+15678,True,2,1,2,lost_cust
 16641,True,1,1,1,lost_cust
-14798,True,1,3,1,lost_cust
+14798,True,2,3,1,problem_cust
 17978,True,1,1,1,lost_cust
 17572,True,1,3,1,lost_cust
 17906,True,1,1,1,lost_cust
@@ -4618,7 +4618,7 @@ C537251,True,,,,
 14537,True,1,1,2,lost_cust
 13434,True,1,2,2,lost_cust
 13462,True,1,1,1,lost_cust
-15327,True,1,1,1,lost_cust
+15327,True,2,1,1,lost_cust
 15412,True,1,1,1,lost_cust
 15388,False,1,1,1,lost_cust
 17118,True,1,1,1,lost_cust
@@ -4839,7 +4839,7 @@ C541492,True,,,,
 560297,True,,,,
 577803,True,3,2,1,new_cust
 536991,True,1,1,1,lost_cust
-571545,True,1,2,1,lost_cust
+571545,True,2,2,1,problem_cust
 13207,True,3,2,1,star_cust
 15405,True,1,1,2,lost_cust
 15381,True,1,2,2,lost_cust
@@ -4937,7 +4937,7 @@ C541492,True,,,,
 18147,True,2,2,1,problem_cust
 539649,True,1,1,1,lost_cust
 549181,True,1,2,1,lost_cust
-17206,True,1,1,1,lost_cust
+17206,True,2,1,1,lost_cust
 573154,False,2,2,1,problem_cust
 C578097,True,,,,
 559496,True,1,2,1,lost_cust
@@ -5097,7 +5097,7 @@ C578097,True,,,,
 14752,True,2,1,2,lost_cust
 14962,True,1,1,1,lost_cust
 15063,True,1,1,2,lost_cust
-16363,True,1,1,1,lost_cust
+16363,True,2,1,1,lost_cust
 15083,True,1,1,1,lost_cust
 15168,True,2,1,1,lost_cust
 15222,True,1,1,2,lost_cust
@@ -5318,7 +5318,7 @@ C577779,True,,,,
 13403,True,3,1,1,new_cust
 16506,True,3,2,1,star_cust
 547364,True,1,2,1,lost_cust
-546663,True,1,1,1,lost_cust
+546663,True,1,2,1,lost_cust
 563717,True,1,2,1,lost_cust
 544595,True,1,1,1,lost_cust
 13194,True,1,1,1,lost_cust
@@ -5581,7 +5581,7 @@ C545506,False,,,,
 16765,True,1,1,1,lost_cust
 C543384,True,,,,
 16738,True,,,,
-16737,True,1,1,2,lost_cust
+16737,True,2,1,2,lost_cust
 14705,True,1,1,1,lost_cust
 C542860,True,,,,
 16579,True,,,,
