@@ -1,6 +1,4 @@
-# Capstone Project
-
-## Presently Surprised: A Gift Recommender Model
+# Presently Surprised: A Gift Recommender Model
 
 #### Introduction
 Presently Surprised Co. Ltd. is an online retailer of gifts. 
